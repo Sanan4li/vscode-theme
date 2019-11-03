@@ -1,0 +1,19 @@
+{
+	"name": "dark-theme-by-sanan",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "1.0.0",
+	"publisher": "sanan4li",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "dark-theme-by-sanan",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-theme-by-sanan.json"
+			}
+		]
+	}
+}
